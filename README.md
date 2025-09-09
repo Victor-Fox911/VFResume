@@ -17,3 +17,28 @@
 ### Eastern Florida State College - 2018-2020
 ##### Dual Enrollment
 
+## Projects
+##### Developed a MySQL database to monitor clients and their pets at a simulated pet salon.
+##### UX/UI website development with a project team to complete an immersive forum for guests to share information in a virtual space.
+
+## Skills
+### Programming Languages:
+##### -	Python 
+- SQL
+- C
+- Java
+
+### Soft Applications
+##### - MySQL server 8.0.30
+- Microsoft Office
+- Eclipse
+- IDLE 3.2.2
+- Visual Code Studio
+- MySQL workbench 8
+- WireShark 4.2.2
+
+## Awards
+##### Deans List Twice at UCF
+##### Acceptance into the National Honor Society
+##### Two Invitations to the Honor Society Sorority
+
