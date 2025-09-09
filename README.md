@@ -6,17 +6,14 @@
 
 ## Education
 
-### University of Central Florida
-##### 2023-2026
+### University of Central Florida - 2023-2026
 ##### Information Technology - GPA 3.4
-#### Relevant Coursework 
+#### Relevant Coursework:
 ##### Database Concepts, CS1, OS Concepts, Networking Concepts, Object Oriented Programming, Design and Implementation of Computer Networking, Security in Computing, Computer Architecture Concepts, Web-Based Information Technology.
 
-### Florida Atlantic University
-##### 2021-2022
+### Florida Atlantic University - 2021-2022
 ##### Studio Art
 
-### Eastern Florida State College
-##### 2018-2020
+### Eastern Florida State College - 2018-2020
 ##### Dual Enrollment
 
