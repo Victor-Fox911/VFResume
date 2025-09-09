@@ -49,7 +49,8 @@
 - WireShark 4.2.2
 
 ## Awards
-##### Deans List Twice at UCF
-##### Acceptance into the National Honor Society
-##### Two Invitations to the Honor Society Sorority
+##### 
+- Deans List Twice at UCF
+- Acceptance into the National Honor Society
+- Two Invitations to the Honor Society Sorority
 
