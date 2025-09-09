@@ -9,7 +9,16 @@
 ### University of Central Florida - 2023-2026
 ##### Information Technology - GPA 3.4
 #### Relevant Coursework:
-##### Database Concepts, CS1, OS Concepts, Networking Concepts, Object Oriented Programming, Design and Implementation of Computer Networking, Security in Computing, Computer Architecture Concepts, Web-Based Information Technology.
+##### 
+- Database Concepts
+- CS1
+- OS Concepts
+- Networking Concepts
+- Object Oriented Programming
+- Design and Implementation of Computer Networking
+- Security in Computing
+- Computer Architecture Concepts
+- Web-Based Information Technology
 
 ### Florida Atlantic University - 2021-2022
 ##### Studio Art
@@ -23,13 +32,15 @@
 
 ## Skills
 ### Programming Languages:
-##### -	Python 
+##### 
+- Python 
 - SQL
 - C
 - Java
 
 ### Soft Applications
-##### - MySQL server 8.0.30
+##### 
+- MySQL server 8.0.30
 - Microsoft Office
 - Eclipse
 - IDLE 3.2.2
