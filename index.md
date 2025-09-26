@@ -27,6 +27,7 @@
 
 ## Projects
 <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+
 <a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
 
 ## Skills
