@@ -1,12 +1,14 @@
 # Victor Fontana
-<head>
+
 ![Photo of Victor Fontana in black glasses and a red flannel](/IMG_34567.png)
 
-vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222/">LinkedIn/</a>
+<head>
+vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222/">LinkedIn</a>
 
 Detail-oriented IT student with a passion for technology and problem-solving, seeking a spring/summer internship in Information Technology to gain hands-on experience and contribute skills in a dynamic IT environment.
 </head>
 <body>
+  
 ## Education
 
 ### University of Central Florida - 2023-2026
