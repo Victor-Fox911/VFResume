@@ -13,7 +13,7 @@ vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222
   
   <h3> 
     University of Central Florida - 2023-2026 
-    Information Technology - GPA 3.4 
+    <br> Information Technology - GPA 3.4 
   </h3>
   
   <h4> 
@@ -30,37 +30,55 @@ vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222
           <li>Computer Architecture Concepts</li>
           <li>Web-Based Information Technology</li>
   </ul>
-  ### Florida Atlantic University - 2021-2022
-  ##### Studio Art
+    <h3> Florida Atlantic University - 2021-2022
+    <br> Studio Art 
+  </h3>
   
-  ### Eastern Florida State College - 2018-2020
-  ##### Dual Enrollment
+  <h3> 
+    Eastern Florida State College - 2018-2020
+    <br>Dual Enrollment
+  </h3>
   
-  ## Projects
-  <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+  <h2> 
+    Projects
+  </h2>
+  <p>
+    <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+    <a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
+  </p>
+  <h2>
+    Skills
+  </h2>
+  <h3> 
+    Programming Languages:
+  </h3>
+  <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>C</li>
+      <li>Java</li>
+  </ul>
   
-  <a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
-  
-  ## Skills
-  ### Programming Languages:
-  - Python 
-  - SQL
-  - C
-  - Java
-  
-  ### Soft Applications
-  - MySQL server 8.0.30
-  - Microsoft Office
-  - Eclipse
-  - IDLE 3.2.2
-  - Visual Code Studio
-  - MySQL workbench 8
-  - WireShark 4.2.2
+ <h3>
+   Soft Applications
+ </h3>
+  <ul>
+      <li>MySQL server 8.0.30</li>
+      <li>Microsoft Office</li>
+      <li>Eclipse</li>
+      <li>IDLE 3.2.2</li>
+      <li>Visual Code Studio</li>
+      <li>MySQL workbench 8</li>
+      <li>WireShark 4.2.2</li>
+  </ul>
 
-
-  ## Awards
-  - Deans List Twice at UCF
-  - Acceptance into the National Honor Society
-  - Two Invitations to the Honor Society Sorority
+<h2>
+  Awards
+</h2>
+  <ul>
+      <li>Deans List Twice at UCF</li>
+      <li>Acceptance into the National Honor Society</li>
+      <li>Two Invitations to the Honor Society Sorority</li>
+  </ul>
 
 </body>
