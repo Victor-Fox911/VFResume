@@ -27,8 +27,8 @@
 ##### Dual Enrollment
 
 ## Projects
-##### Developed a MySQL database to monitor clients and their pets at a simulated pet salon.
-##### UX/UI website development with a project team to complete an immersive forum for guests to share information in a virtual space.
+##### <a href="MySQL.md">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+##### <a href="WebDev.md">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
 
 ## Skills
 ### Programming Languages:
