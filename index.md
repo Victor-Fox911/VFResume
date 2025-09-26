@@ -9,7 +9,6 @@
 ### University of Central Florida - 2023-2026
 ##### Information Technology - GPA 3.4
 #### Relevant Coursework:
-##### 
 - Database Concepts
 - CS1
 - OS Concepts
@@ -27,8 +26,8 @@
 ##### Dual Enrollment
 
 ## Projects
-##### <a href="mysql.md">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
-##### <a href="webdev.md">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
+<a href="mysql.md">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+<a href="webdev.md">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
 
 ## Skills
 ### Programming Languages:
