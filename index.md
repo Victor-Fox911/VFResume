@@ -27,19 +27,17 @@
 ##### Dual Enrollment
 
 ## Projects
-##### <a href="MySQL.md">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
-##### <a href="WebDev.md">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
+##### <a href="mysql.md">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+##### <a href="webdev.md">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
 
 ## Skills
 ### Programming Languages:
-##### 
 - Python 
 - SQL
 - C
 - Java
 
 ### Soft Applications
-##### 
 - MySQL server 8.0.30
 - Microsoft Office
 - Eclipse
@@ -49,7 +47,6 @@
 - WireShark 4.2.2
 
 ## Awards
-##### 
 - Deans List Twice at UCF
 - Acceptance into the National Honor Society
 - Two Invitations to the Honor Society Sorority
