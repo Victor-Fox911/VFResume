@@ -5,7 +5,7 @@
 <head>
 vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222/">LinkedIn</a>
 
-Detail-oriented IT student with a passion for technology and problem-solving, seeking a spring/summer internship in Information Technology to gain hands-on experience and contribute skills in a dynamic IT environment.
+<br>Detail-oriented IT student with a passion for technology and problem-solving, seeking a spring/summer internship in Information Technology to gain hands-on experience and contribute skills in a dynamic IT environment.
 </head>
   <body>
     
