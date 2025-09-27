@@ -49,9 +49,9 @@
   <h5>
     Dual Enrollment
   </h5>
+  <h2>Skills</h2>
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
   <div style="flex: 1;">
-    <h2>Skills</h2>
     <h3>Programming Languages:</h3>
     <ul>
       <li>Python</li>
