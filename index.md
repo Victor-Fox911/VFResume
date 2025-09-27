@@ -11,7 +11,8 @@
     </p>
   </div>
 </div>
-    
+
+<body>    
   <h2> Education </h2>
   
   <h3> 
@@ -33,7 +34,8 @@
           <li>Computer Architecture Concepts</li>
           <li>Web-Based Information Technology</li>
   </ul>
-    <h3> Florida Atlantic University - 2021-2022
+  <h3>
+    Florida Atlantic University - 2021-2022
     <br> Studio Art 
   </h3>
   
