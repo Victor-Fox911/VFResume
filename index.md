@@ -1,5 +1,3 @@
-# Victor Fontana
-
 <div style="display: flex; align-items: center; gap: 2rem;">
   <img src="/IMG_34567.png" alt="Photo of Victor Fontana in black glasses and a red flannel" style="width: 150px; border-radius: 8px;" />
   <div>
