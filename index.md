@@ -67,7 +67,6 @@
       <li>C</li>
       <li>Java</li>
     </ul>
-    <br>
     <h3>Soft Applications</h3>
     <ul>
       <li>MySQL server 8.0.30</li>
