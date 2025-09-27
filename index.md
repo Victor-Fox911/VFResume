@@ -57,23 +57,19 @@
     <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
     <br><a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
   </p>
-  <h2>
-    Skills
-  </h2>
-  <h3> 
-    Programming Languages:
-  </h3>
-  <ul>
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
+  <div style="flex: 1;">
+    <h2>Skills</h2>
+    <h3>Programming Languages:</h3>
+    <ul>
       <li>Python</li>
       <li>SQL</li>
       <li>C</li>
       <li>Java</li>
-  </ul>
-  
- <h3>
-   Soft Applications
- </h3>
-  <ul>
+    </ul>
+    <br>
+    <h3>Soft Applications</h3>
+    <ul>
       <li>MySQL server 8.0.30</li>
       <li>Microsoft Office</li>
       <li>Eclipse</li>
@@ -81,15 +77,17 @@
       <li>Visual Code Studio</li>
       <li>MySQL workbench 8</li>
       <li>WireShark 4.2.2</li>
-  </ul>
+    </ul>
+  </div>
 
-<h2>
-  Awards
-</h2>
-  <ul>
+  <div style="flex: 1;">
+    <h2>Awards</h2>
+    <ul>
       <li>Deans List Twice at UCF</li>
       <li>Acceptance into the National Honor Society</li>
       <li>Two Invitations to the Honor Society Sorority</li>
-  </ul>
+    </ul>
+  </div>
+</div>
 
 </body>
