@@ -1,13 +1,18 @@
 # Victor Fontana
 
-![Photo of Victor Fontana in black glasses and a red flannel](/IMG_34567.png)
-
-<head>
-vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222/">LinkedIn</a>
-
-<br>Detail-oriented IT student with a passion for technology and problem-solving, seeking a spring/summer internship in Information Technology to gain hands-on experience and contribute skills in a dynamic IT environment.
-</head>
-  <body>
+<div style="display: flex; align-items: center; gap: 2rem;">
+  <img src="/IMG_34567.png" alt="Photo of Victor Fontana in black glasses and a red flannel" style="width: 180px; border-radius: 8px;" />
+  <div>
+    <h1>Victor Fontana</h1>
+    <p>
+      vi510000@ucf.edu<br>
+      <a href="https://www.linkedin.com/in/victor-fontana-563042222/">LinkedIn</a>
+    </p>
+    <p>
+      Detail-oriented IT student with a passion for technology and problem-solving, seeking a spring/summer internship in Information Technology to gain hands-on experience and contribute skills in a dynamic IT environment.
+    </p>
+  </div>
+</div>
     
   <h2> Education </h2>
   
