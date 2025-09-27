@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 2rem;">
-  ![Photo of Victor Fontana in black glasses and a red flannel](/IMG_34567.png)
+  <img src="/IMG_34567.png" alt="Photo of Victor Fontana in black glasses and a red flannel" style="width: 180px; border-radius: 8px;" />
   <div>
     <h1>Victor Fontana</h1>
     <p>
