@@ -17,8 +17,10 @@
   
   <h3> 
     University of Central Florida - 2023-2026 
-    <br> Information Technology - GPA 3.4 
   </h3>
+  <h5>
+    Information Technology - GPA 3.4 
+  </h5>
   
   <h4> 
     Relevant Coursework: 
@@ -36,13 +38,17 @@
   </ul>
   <h3>
     Florida Atlantic University - 2021-2022
-    <br> Studio Art 
-  </h3>
+  </h3>  
+  <h5>  
+    Studio Art 
+  </h5>
   
   <h3> 
     Eastern Florida State College - 2018-2020
-    <br>Dual Enrollment
   </h3>
+  <h5>
+    Dual Enrollment
+  </h5>
   
   <h2> 
     Projects
