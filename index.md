@@ -44,7 +44,7 @@ vi510000@ucf.edu | <a href="https://www.linkedin.com/in/victor-fontana-563042222
   </h2>
   <p>
     <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
-    <a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
+    <br><a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
   </p>
   <h2>
     Skills
