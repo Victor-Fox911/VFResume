@@ -49,14 +49,6 @@
   <h5>
     Dual Enrollment
   </h5>
-  
-  <h2> 
-    Projects
-  </h2>
-  <p>
-    <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
-    <br><a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
-  </p>
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-top: 2rem;">
   <div style="flex: 1;">
     <h2>Skills</h2>
@@ -86,6 +78,13 @@
       <li>Acceptance into the National Honor Society</li>
       <li>Two Invitations to the Honor Society Sorority</li>
     </ul>
+    <h2> 
+    Projects
+  </h2>
+  <p>
+    <a href="mysql.html">MySQL Database</a> - Designed a database to assist in monitoring clients and their pets at a simulated pet salon.
+    <br><a href="webdev.html">UX/UI Website Development</a> - Worked with a team to create an immersive forum for guests to share information in a virtual space.
+  </p>
   </div>
 </div>
 
