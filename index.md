@@ -82,7 +82,7 @@
     Projects
   </h2>
   <ul>
-    <li><a href="mysql.html">MySQL Database</a> <br>Designed a database to assist in monitoring clients and their pets at a simulated pet salon.</li>
+    <li><a href="https://github.com/Victor-Fox911/SQL-PetSalonProject">MySQL Database</a> <br>Designed a database to assist in monitoring clients and their pets at a simulated pet salon.</li>
     <li><a href="webdev.html">UX/UI Website Development</a> <br>Worked with a team to create an immersive forum for guests to share information in a virtual space.</li>
   </ul>
   </div>
