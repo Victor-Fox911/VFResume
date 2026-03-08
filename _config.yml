@@ -1,11 +1,11 @@
 # Site settings
-title: Portfolio
+title: Information Technology
 email: toriefontana911@gmail.com
 url: https://victor-fox911.github.io/VFResume/
 description: "Portfolio for Victor Fontanna, displaying their achievements and skills."
 keywords: "IT, Information, Technology, Resume, Portfolio"
-skills: "Information Technology"
-meta_author: LastName FirstName
+skills: "Detail-oriented IT student with a passion for technology and problem-solving."
+meta_author: Fontana Victoria
 
 # Google webmaster tools
 google_verify:
@@ -41,6 +41,8 @@ footer:
 social:
   - title: github
     url: https://github.com/Victor-Fox911
+  - title: linkedin
+    url: https://www.linkedin.com/in/victoria-fontana-563042222/
 
 # Postal address (add as many lines as necessary)
 address:
