@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 
+date: 4/28/2026
 img: SanrioClub.png
 alt: A screenshot of an SQL command used in MySQL Workbench
 project-date: 
