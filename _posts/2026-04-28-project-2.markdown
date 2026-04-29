@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 
+date: 4/28/2026
 img: 5b.png
 alt: A screenshot of a website showing an SQL command.
 project-date: 
