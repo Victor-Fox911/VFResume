@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 
+date: 4/28/2026
 img: Command8C.png
 alt: A GUI for an SQL application.
 project-date:
