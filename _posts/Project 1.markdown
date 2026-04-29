@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-15
-img: Javaguisql.png
-alt: image-alt
-project-date: April 2014
+date: 
+img: SanrioClub.png
+alt: A screenshot of an SQL command used in MySQL Workbench
+project-date: 
 client: 
-category: Java GUI with integrated SQL database.
-description: EDIT THIS LATER
+category: Pure SQL database in MySQL Workbench
+description: This was a personal project to help monitor the students who joined the sanrio club and manage possible allergens, as well as who payed dues.
 ---
